@@ -1,0 +1,8 @@
+BreakStringLiterals: false
+Cpp11BracedListStyle: false
+UseTab: Never
+RemoveBracesLLVM: false
+AlwaysBreakBeforeMultilineStrings: false
+BinPackArguments: false
+BinPackParameters: false
+ColumnLimit: 0

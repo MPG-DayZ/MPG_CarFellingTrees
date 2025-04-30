@@ -4,6 +4,8 @@
 
 Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3472997019
 
+Discord: https://discord.gg/Dv8sHcQs57
+
 ## Параметры конфигурации
 
 ### MPG_FellingEnabled

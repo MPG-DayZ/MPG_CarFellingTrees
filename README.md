@@ -2,6 +2,8 @@
 
 Простой скрипт для реализации механики валки деревьев для любой машины через настройку в config.cpp.
 
+Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3472997019
+
 ## Параметры конфигурации
 
 ### MPG_FellingEnabled
